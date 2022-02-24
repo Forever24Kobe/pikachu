@@ -1,4 +1,4 @@
-import string from "./css";
+import string from "./src/css";
 let n = 1;
 demo.innerText = string.substring(0, n);
 demo2.innerHTML = string.substring(0, n);
